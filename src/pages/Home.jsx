@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Hero from '../components/hero'
+import Hero from '../components/Hero'
 import CategoryFilter from '../components/CategoryFilter'
 import FoodCategory from '../components/FoodCategory'
 
